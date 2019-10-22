@@ -22,6 +22,6 @@ from:
     - http://ip:port/demo/demo-rest.git
 to:
   url: http://ip:port
-  personal_token: config.yml
+  personal_token: fqz6DaAZxT9hikERzwed
   group: demo
 ```
